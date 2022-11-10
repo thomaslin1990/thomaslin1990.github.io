@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lin Dongyun"
+title                    : "Lin Dongyun | HomePage"
 title_separator          : "-"
-name                     : &name "Lin Dongyun"
+name                     : &name "Lin Dongyun (林冬昀）"
 description              : &description "personal description"
 url                      : https://thomaslin1990.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
