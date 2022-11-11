@@ -40,6 +40,10 @@ Journal of Ambient Intelligence and Humanized Computing, Springer, 2021
 **Lin, Dongyun**; Li, Yiqun; Nwe, Tin Lay; Dong, Sheng; Oo, Zaw Min<br>
 Pattern Recognition Letters, Elsevier, 2020
 
+7. [A two-stage method for automated detection of ring-like endosomes in fluorescent microscopy images](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0218931)<br>
+**Lin, Dongyun**; Lin, Zhiping; Cao, Jiuwen; Velmurugan, Ramraj; Ward, E Sally; Ober, Raimund J<br>
+Plos One, 2019
+
 # Conference Publications
 
 
