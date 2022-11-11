@@ -44,6 +44,45 @@ Pattern Recognition Letters, Elsevier, 2020
 **Lin, Dongyun**; Lin, Zhiping; Cao, Jiuwen; Velmurugan, Ramraj; Ward, E Sally; Ober, Raimund J<br>
 Plos One, 2019
 
+8. [Biomedical image classification based on a feature concatenation and ensemble of deep CNNs](https://link.springer.com/article/10.1007/s12652-019-01276-4)<br>
+Nguyen, Long D; Gao, Ruihan; **Lin, Dongyun**; Lin, Zhiping<br>
+Journal of Ambient Intelligence and Humanized Computing, Springer, 2019
+
+9. [Vibration source classification and propagation distance estimation system based on spectrogram and KELM](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ccs.2018.0010)<br>
+Chen, Zhiyong; Cao, Jiuwen; **Lin, Dongyun**; Wang, Jianzhong; Huang, Xuegang<br>
+Cognitive Computation and Systems, 2019
+
+10. [Biomedical image classification based on a cascade of an SVM with a reject option and subspace analysis](https://www.sciencedirect.com/science/article/abs/pii/S0010482518300568)<br>
+**Lin, Dongyun**; Sun, Lei; Toh, Kar-Ann; Zhang, Jing Bo; Lin, Zhiping<br>
+Computers in biology and medicine, Elsevier, 2018
+
+11. [Twin SVM with a reject option through ROC curve](https://www.sciencedirect.com/science/article/abs/pii/S0016003217302260)<br>
+**Lin, Dongyun**; Sun, Lei; Toh, Kar-Ann; Zhang, Jing Bo; Lin, Zhiping<br>
+Journal of the Franklin Institute, Elsevier, 2018
+
 # Conference Publications
+
+1. [MLSA-UNet: End-to-End Multi-Level Spatial Attention Guided UNet for Industrial Defect Segmentation](https://ieeexplore.ieee.org/abstract/document/9897416)<br>
+**Lin, Dongyun**; Cheng, Yi; Li, Yiqun; Prasad, Shitala; Guo, Aiyuan<br>
+2022 IEEE International Conference on Image Processing (ICIP)
+
+2. [Masked Face Recognition via Self-Attention Based Local Consistency Regularization](https://ieeexplore.ieee.org/abstract/document/9898076)<br>
+**Lin, Dongyun**; Li, Yiqun; Cheng, Yi; Prasad, Shitala; Guo, Aiyuan<br>
+2022 IEEE International Conference on Image Processing (ICIP)
+
+3. [Implicit Shape Biased Few-Shot Learning for 3D Object Generalization](https://ieeexplore.ieee.org/abstract/document/9897438)<br>
+Prasad, Shitala; Li, Yiqun; **Lin, Dongyun**; Guo, Aiyuan<br>
+2022 IEEE International Conference on Image Processing (ICIP)
+
+4. [On the use of component structural characteristics for voxel segmentation in semicon 3D images](On the use of component structural characteristics for voxel segmentation in semicon 3D images)<br>
+Nwe, Tin Lay; Pahwa, Ramanpreet Singh; Chang, Richard; Min, Oo Zaw; Jie, Wang; Li, Yiqun; **Lin, Dongyun**; Prasad, Shitala; Dong, Sheng<br>
+2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+
+5. [Cam-Guided U-Net With Adversarial Regularization For Defect Segmentation](https://ieeexplore.ieee.org/abstract/document/9506582)<br>
+**Lin, Dongyun**; Li, Yiqun; Prasad, Shitala; Nwe, Tin Lay; Dong, Sheng; Oo, Zaw Min<br>
+2021 IEEE International Conference on Image Processing (ICIP)
+
+6. []
+
 
 
