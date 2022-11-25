@@ -74,15 +74,58 @@ Journal of the Franklin Institute, Elsevier, 2018
 Prasad, Shitala; Li, Yiqun; **Lin, Dongyun**; Guo, Aiyuan<br>
 2022 IEEE International Conference on Image Processing (ICIP)
 
-4. [On the use of component structural characteristics for voxel segmentation in semicon 3D images](On the use of component structural characteristics for voxel segmentation in semicon 3D images)<br>
+4. [On the use of component structural characteristics for voxel segmentation in semicon 3D images](https://ieeexplore.ieee.org/document/9747623)<br>
 Nwe, Tin Lay; Pahwa, Ramanpreet Singh; Chang, Richard; Min, Oo Zaw; Jie, Wang; Li, Yiqun; **Lin, Dongyun**; Prasad, Shitala; Dong, Sheng<br>
 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
 
-5. [Cam-Guided U-Net With Adversarial Regularization For Defect Segmentation](https://ieeexplore.ieee.org/abstract/document/9506582)<br>
+5. [CAM-Guided U-Net With Adversarial Regularization For Defect Segmentation](https://ieeexplore.ieee.org/abstract/document/9506582)<br>
 **Lin, Dongyun**; Li, Yiqun; Prasad, Shitala; Nwe, Tin Lay; Dong, Sheng; Oo, Zaw Min<br>
 2021 IEEE International Conference on Image Processing (ICIP)
 
-6. []
+6. [Few-Shot Defect Segmentation Leveraging Abundant Defect-Free Training Samples Through Normal Background Regularization And Crop-And-Paste Operation](https://ieeexplore.ieee.org/abstract/document/9428468)<br>
+**Lin, Dongyun**; Cao, Yanpeng; Zhu, Wenbin; Li, Yiqun<br>
+2021 IEEE International Conference on Multimedia and Expo (ICME)
 
+7. [Rethinking of Deep Models Parameters with Respect to Data Distribution](https://ieeexplore.ieee.org/abstract/document/9413003)<br>
+Prasad, Shitala; **Lin, Dongyun**; Li, Yiqun; Sheng, Dong; Min, Oo Zaw<br>
+2020 25th International Conference on Pattern Recognition (ICPR)
 
+8. [maskedFaceNet: a progressive semi-supervised masked face detector](https://openaccess.thecvf.com/content/WACV2021/html/Prasad_maskedFaceNet_A_Progressive_Semi-Supervised_Masked_Face_Detector_WACV_2021_paper.html)<br>
+Prasad, Shitala; Li, Yiqun; **Lin, Dongyun**; Sheng, Dong<br>
+Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision
 
+9. [CAM-UNET: Class activation MAP guided UNET with feedback refinement for defect segmentation](https://ieeexplore.ieee.org/abstract/document/9190900)<br>
+**Lin, Dongyun**; Li, Yiqun; Prasad, Shitala; Nwe, Tin Lay; Dong, Sheng; Oo, Zaw Min<br>
+2020 IEEE International Conference on Image Processing (ICIP)
+
+10. [Improving 3d brain tumor segmentation with predict-refine mechanism using saliency and feature maps](https://ieeexplore.ieee.org/abstract/document/9190806)<br>
+Nwe, Tin Lay; Min, Oo Zaw; Gopalakrishnan, Saisubramaniam; **Lin, Dongyun**; Prasad, Shitala; Dong, Sheng; Li, Yiqun; Pahwa, Ramanpreet Singh<br>
+2020 IEEE International Conference on Image Processing (ICIP)
+
+11. [Meta module generation for fast few-shot incremental learning](https://openaccess.thecvf.com/content_ICCVW_2019/html/MDALC/Xie_Meta_Module_Generation_for_Fast_Few-Shot_Incremental_Learning_ICCVW_2019_paper.html)<br>
+Xie, Shudong; Li, Yiqun; **Lin, Dongyun**; Lay Nwe, Tin; Dong, Sheng<br>
+Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops
+
+12. [Multicomponent signal decomposition using morphological operations](https://ieeexplore.ieee.org/abstract/document/8631863)<br>
+Zhuang, Huiping; Oh, Beom-Seok; **Lin, Dongyun**; Toh, Kar-Ann; Lin, Zhiping<br>
+2018 IEEE 23rd International Conference on Digital Signal Processing (DSP)
+
+13. [Deep CNNs for microscopic image classification by exploiting transfer learning and feature concatenation](https://ieeexplore.ieee.org/abstract/document/8351550)<br>
+Nguyen, Long D; Lin, **Dongyun; Lin**, Zhiping; Cao, Jiuwen<br>
+2018 IEEE international symposium on circuits and systems (ISCAS)
+
+14. [Automatic endosomal structure detection and localization in fluorescence microscopic images](https://ieeexplore.ieee.org/abstract/document/8050242)<br>
+**Lin, Dongyun**; Lin, Zhiping; Velmurugan, Ramraj; Ober, Raimund J<br>
+2017 IEEE International Symposium on Circuits and Systems (ISCAS)
+
+15. [LLC encoded BoW features and softmax regression for microscopic image classification]()<br>
+**Lin, Dongyun**; Lin, Zhiping; Sun, Lei; Toh, Kar-Ann; Cao, Jiuwen<br>
+2017 IEEE International Symposium on Circuits and Systems (ISCAS)
+
+16. [Reaction-diffusion based level set method with local entropy thresholding for melasma image segmentation](https://ieeexplore.ieee.org/abstract/document/7838823)<br>
+Zhang, Xu; Liang, Yunfeng; **Lin, Dongyun**; Lin, Zhiping; Thng, Steven Tien Guan; Gan, Emily Yiping; Tay, Evelyn Yuxin<br>
+2016 14th International Conference on Control, Automation, Robotics and Vision (ICARCV)
+
+17. [An SVM based scoring evaluation system for fluorescence microscopic image classification](https://ieeexplore.ieee.org/abstract/document/7251932)<br>
+**Lin, Dongyun**; Lin, Zhiping; Sothiharan, Shakeela; Lei, Lei; Zhang, Jingbo<br>
+2015 IEEE International Conference on Digital Signal Processing (DSP)
