@@ -40,4 +40,4 @@ Teaching
 
 Complete CV
 ======
-[CV](/file/LinDongyun_CV_28_11_2022.pdf)
+[CV](/files/LinDongyun_CV_28_11_2022.pdf)
