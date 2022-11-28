@@ -37,3 +37,7 @@ Teaching
     * Topic: Multi-view based 3D object classification/retrieval, I2R (2022).
     * Topic: Transfer learning for biomedical image classification using deep neural networks, School of EEE, NTU, Singapore (2016-2018).
     * Topic: Automated segmentation of melasma from skin images, School of EEE, NTU, Singapore (2015-2016).
+
+Complete CV
+======
+[CV](/file/LinDongyun_CV_28_11_2022.pdf)
