@@ -16,7 +16,7 @@ main:
 #     url: /year-archive/
 
   - title: "Awards"
-    urs: /awards/  
+    url: /awards/  
     
   - title: "CV"
     url: /cv/
