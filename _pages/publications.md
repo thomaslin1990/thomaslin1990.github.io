@@ -16,51 +16,51 @@ author_profile: true
 {% endfor %}
 
 # Journal Publications
-0. [Multi-Range View Aggregation Network with Vision Transformer Feature Fusion for 3D Object Retrieval](https://ieeexplore.ieee.org/abstract/document/10049659/)<br>
+1. [Multi-Range View Aggregation Network with Vision Transformer Feature Fusion for 3D Object Retrieval](https://ieeexplore.ieee.org/abstract/document/10049659/)<br>
 **Lin, Dongyun**; Li, Yiqun; Cheng Yi; Prasad Shitala; Guo Aiyuan; Cao Yanpeng<br>
 Transactions on Multimedia, IEEE, 2023
 
-1. [An effective industrial defect classification method under the few-shot setting via two-stream training](https://www.sciencedirect.com/science/article/abs/pii/S0143816622003475) <br>
+2. [An effective industrial defect classification method under the few-shot setting via two-stream training](https://www.sciencedirect.com/science/article/abs/pii/S0143816622003475) <br>
 Cao, Yanlong; Zhu, Wenbin; Yang, Jiangxin; Fu, Guizhong; **Lin, Dongyun(Corresponding Author)**; Cao, Yanpeng<br>
 Optics and Lasers in Engineering, Elsevier, 2023
 
-2. [Multi-view 3D object retrieval leveraging the aggregation of view and instance attentive features](https://www.sciencedirect.com/science/article/abs/pii/S0950705122003549)<br>
+3. [Multi-view 3D object retrieval leveraging the aggregation of view and instance attentive features](https://www.sciencedirect.com/science/article/abs/pii/S0950705122003549)<br>
 **Lin, Dongyun**; Li, Yiqun; Cheng, Yi; Prasad, Shitala; Nwe, Tin Lay; Dong, Sheng; Guo, Aiyuan<br>
 Knowledge-Based Systems,  Elsevier, 2022
 
-3. [A Progressive Multi-View Learning Approach for Multi-Loss Optimization in 3D Object Recognition](https://ieeexplore.ieee.org/abstract/document/9638316)<br>
+4. [A Progressive Multi-View Learning Approach for Multi-Loss Optimization in 3D Object Recognition](https://ieeexplore.ieee.org/abstract/document/9638316)<br>
 Prasad, Shitala; Li, Yiqun; **Lin, Dongyun**; Dong, Sheng; Nwe, Ma Tin Lay<br>
 IEEE Signal Processing Letters, 2021
 
-4. [CAM-guided Multi-Path Decoding U-Net with Triplet Feature Regularization for defect detection and segmentation](https://www.sciencedirect.com/science/article/abs/pii/S0950705121005347)<br>
+5. [CAM-guided Multi-Path Decoding U-Net with Triplet Feature Regularization for defect detection and segmentation](https://www.sciencedirect.com/science/article/abs/pii/S0950705121005347)<br>
 **Lin, Dongyun**; Li, Yiqun; Prasad, Shitala; Nwe, Tin Lay; Dong, Sheng; Oo, Zaw Min<br>
 Knowledge-Based Systems,  Elsevier, 2021
 
-5. [Ddr-id: Dual deep reconstruction networks based image decomposition for anomaly detection](https://link.springer.com/article/10.1007/s12652-021-03425-0)<br>
+6. [Ddr-id: Dual deep reconstruction networks based image decomposition for anomaly detection](https://link.springer.com/article/10.1007/s12652-021-03425-0)<br>
 **Lin, Dongyun**; Li, Yiqun; Xie, Shudong; Nwe, Tin Lay; Dong, Sheng<br>
 Journal of Ambient Intelligence and Humanized Computing, Springer, 2021
 
-6. [RefineU-Net: Improved U-Net with progressive global feedbacks and residual attention guided local refinement for medical image segmentation](https://www.sciencedirect.com/science/article/abs/pii/S0167865520302592)<br>
+7. [RefineU-Net: Improved U-Net with progressive global feedbacks and residual attention guided local refinement for medical image segmentation](https://www.sciencedirect.com/science/article/abs/pii/S0167865520302592)<br>
 **Lin, Dongyun**; Li, Yiqun; Nwe, Tin Lay; Dong, Sheng; Oo, Zaw Min<br>
 Pattern Recognition Letters, Elsevier, 2020
 
-7. [A two-stage method for automated detection of ring-like endosomes in fluorescent microscopy images](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0218931)<br>
+8. [A two-stage method for automated detection of ring-like endosomes in fluorescent microscopy images](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0218931)<br>
 **Lin, Dongyun**; Lin, Zhiping; Cao, Jiuwen; Velmurugan, Ramraj; Ward, E Sally; Ober, Raimund J<br>
 Plos One, 2019
 
-8. [Biomedical image classification based on a feature concatenation and ensemble of deep CNNs](https://link.springer.com/article/10.1007/s12652-019-01276-4)<br>
+9. [Biomedical image classification based on a feature concatenation and ensemble of deep CNNs](https://link.springer.com/article/10.1007/s12652-019-01276-4)<br>
 Nguyen, Long D; Gao, Ruihan; **Lin, Dongyun**; Lin, Zhiping<br>
 Journal of Ambient Intelligence and Humanized Computing, Springer, 2019
 
-9. [Vibration source classification and propagation distance estimation system based on spectrogram and KELM](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ccs.2018.0010)<br>
+10. [Vibration source classification and propagation distance estimation system based on spectrogram and KELM](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ccs.2018.0010)<br>
 Chen, Zhiyong; Cao, Jiuwen; **Lin, Dongyun**; Wang, Jianzhong; Huang, Xuegang<br>
 Cognitive Computation and Systems, 2019
 
-10. [Biomedical image classification based on a cascade of an SVM with a reject option and subspace analysis](https://www.sciencedirect.com/science/article/abs/pii/S0010482518300568)<br>
+11. [Biomedical image classification based on a cascade of an SVM with a reject option and subspace analysis](https://www.sciencedirect.com/science/article/abs/pii/S0010482518300568)<br>
 **Lin, Dongyun**; Sun, Lei; Toh, Kar-Ann; Zhang, Jing Bo; Lin, Zhiping<br>
 Computers in biology and medicine, Elsevier, 2018
 
-11. [Twin SVM with a reject option through ROC curve](https://www.sciencedirect.com/science/article/abs/pii/S0016003217302260)<br>
+12. [Twin SVM with a reject option through ROC curve](https://www.sciencedirect.com/science/article/abs/pii/S0016003217302260)<br>
 **Lin, Dongyun**; Sun, Lei; Toh, Kar-Ann; Zhang, Jing Bo; Lin, Zhiping<br>
 Journal of the Franklin Institute, Elsevier, 2018
 
