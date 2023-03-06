@@ -16,6 +16,10 @@ author_profile: true
 {% endfor %}
 
 # Journal Publications
+0. [Multi-Range View Aggregation Network with Vision Transformer Feature Fusion for 3D Object Retrieval](https://ieeexplore.ieee.org/abstract/document/10049659/)<br>
+**Lin, Dongyun**; Li, Yiqun; Cheng Yi; Prasad Shitala; Guo Aiyuan; Cao Yanpeng<br>
+Transactions on Multimedia, IEEE, 2023
+
 1. [An effective industrial defect classification method under the few-shot setting via two-stream training](https://www.sciencedirect.com/science/article/abs/pii/S0143816622003475) <br>
 Cao, Yanlong; Zhu, Wenbin; Yang, Jiangxin; Fu, Guizhong; **Lin, Dongyun(Corresponding Author)**; Cao, Yanpeng<br>
 Optics and Lasers in Engineering, Elsevier, 2023
