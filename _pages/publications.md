@@ -16,6 +16,10 @@ author_profile: true
 {% endfor %}
 
 # Journal Publications
+ [Keyword-Aware Relative Spatio-Temporal Graph Networks for Video Question Answering](https://ieeexplore.ieee.org/abstract/document/10366866)<br>
+Cheng, Yi; Fan, Hehe; **Lin, Dongyun**; Sun, Ying; Kankanhalli, Mohan; Lim, Joo-Hwee<br>
+Transactions on Multimedia, IEEE, 2023
+
  [Multi-Range View Aggregation Network with Vision Transformer Feature Fusion for 3D Object Retrieval](https://ieeexplore.ieee.org/abstract/document/10049659/)<br>
 **Lin, Dongyun**; Li, Yiqun; Cheng Yi; Prasad Shitala; Guo Aiyuan; Cao Yanpeng<br>
 Transactions on Multimedia, IEEE, 2023
