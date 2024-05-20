@@ -16,6 +16,10 @@ author_profile: true
 {% endfor %}
 
 # Journal Publications
+[SCA-PVNet: Self-and-cross attention based aggregation of point cloud and multi-view for 3D object retrieval](https://www.sciencedirect.com/science/article/abs/pii/S0950705124005549)<br>
+**Lin, Dongyun**; Cheng, Yi; Guo, Aiyuan; Mao, Shangbo; Li, Yiqun<br>
+Knowledge-Based Systems, Elsevier, 2024
+
  [Keyword-Aware Relative Spatio-Temporal Graph Networks for Video Question Answering](https://ieeexplore.ieee.org/abstract/document/10366866)<br>
 Cheng, Yi; Fan, Hehe; **Lin, Dongyun**; Sun, Ying; Kankanhalli, Mohan; Lim, Joo-Hwee<br>
 Transactions on Multimedia, IEEE, 2023
