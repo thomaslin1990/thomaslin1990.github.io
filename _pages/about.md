@@ -14,4 +14,4 @@ redirect_from:
 
 - My current reserach interests are in thoery and application in machine learning, deep learning and computer vision.
 
-## Recent Update
+## Recent News
