@@ -31,4 +31,5 @@ Domain Adaptation for Action Recognition Track at **CVPR2022**.
 - One paper entitled "An effective industrial defect classification method under the few-shot setting via two-stream training" has been published in **Optics and Lasers in Engineering**.
   
 - One paper entitled "Biomedical image classification based on a feature concatenation and ensemble of deep CNNs" has been published in **Journal of Ambient Intelligence and Humanized Computing**.
-- 
+
+- One paper entitled "MLSA-UNet: End-to-End multi-level spatial attention guided UNet for industrial defect segmentation" has been published in **ICIP2022**.
