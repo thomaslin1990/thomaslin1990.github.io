@@ -16,6 +16,7 @@ redirect_from:
 
 ## Recent News
 - One paper entitled "SCA-PVNet: Self-and-cross attention based aggregation of point cloud and multi-view for 3D object retrieval" has been published in **Knowledge-Based Systems**.
+  
 - One paper entitled "Keyword-Aware Relative Spatio-Temporal Graph Networks for Video Question Answering" has been published in **IEEE Transactions on Multimedia**.
 - One **US Patent** entitled "Method and system for image classification" has been granted with Patent Number: 11836632.
 - Our solution has won the 1st Place in EPIC-Kitchens Dataset Challenges: Unsupervised
