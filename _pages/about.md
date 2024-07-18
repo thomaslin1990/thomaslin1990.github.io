@@ -18,11 +18,17 @@ redirect_from:
 - One paper entitled "SCA-PVNet: Self-and-cross attention based aggregation of point cloud and multi-view for 3D object retrieval" has been published in **Knowledge-Based Systems**.
   
 - One paper entitled "Keyword-Aware Relative Spatio-Temporal Graph Networks for Video Question Answering" has been published in **IEEE Transactions on Multimedia**.
+  
 - One **US Patent** entitled "Method and system for image classification" has been granted with Patent Number: 11836632.
+  
 - Our solution has won the 1st Place in EPIC-Kitchens Dataset Challenges: Unsupervised
 Domain Adaptation for Action Recognition Track at **CVPR2022**.
+
 - One paper entitled "DDR-ID: Dual deep reconstruction networks based image decomposition for anomaly detection" has been published in **Journal of Ambient Intelligence and Humanized Computing**.
+  
 - One paper entitled "Multi-range view aggregation network with vision transformer feature fusion for 3D object retrieval" has been published in **IEEE Transactions on Multimedia**.
-- One paper entitled "An effective industrial defect classification method under the few-shot setting via two-stream training" has been published in **Optics and Lasers in Engineering**,
+  
+- One paper entitled "An effective industrial defect classification method under the few-shot setting via two-stream training" has been published in **Optics and Lasers in Engineering**.
+  
 - One paper entitled "Biomedical image classification based on a feature concatenation and ensemble of deep CNNs" has been published in **Journal of Ambient Intelligence and Humanized Computing**.
 - 
