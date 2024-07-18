@@ -18,7 +18,7 @@ Work experience
 ======
 * From Sep 2018, Research Scientist
   * Institute for Infocomm Research, Singapore
-  * Working on AI, Computer Vision, Machine Learning with Applications in Biomedical/Industry Images.
+  * Working on AI, Computer Vision, Machine Learning with Applications in Biomedical/Industry Data.
   
 Skills
 ======
@@ -40,4 +40,4 @@ Teaching
 
 Complete CV
 ======
-[CV](/files/Lin_Dongyun_CV_060323.pdf)
+[CV](/files/Lin_Dongyun_CV_V1.pdf)
