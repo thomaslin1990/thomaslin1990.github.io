@@ -15,5 +15,8 @@ redirect_from:
 - My current reserach interests are in thoery and application in machine learning, deep learning and computer vision.
 
 ## Recent News
-- One Paper entitled "SCA-PVNet: Self-and-cross attention based aggregation of point cloud and multi-view for 3D object retrieval" has been published in **Knowledge-Based Systems**.
-- One Paper entitled "Keyword-Aware Relative Spatio-Temporal Graph Networks for Video Question Answering" has been published in **IEEE Transactions on Multimedia**.
+- One paper entitled "SCA-PVNet: Self-and-cross attention based aggregation of point cloud and multi-view for 3D object retrieval" has been published in **Knowledge-Based Systems**.
+- One paper entitled "Keyword-Aware Relative Spatio-Temporal Graph Networks for Video Question Answering" has been published in **IEEE Transactions on Multimedia**.
+- One US Patent entitled "Method and system for image classification" has been granted with Patent Number: 11836632.
+- Our solution has won the 1st Place in EPIC-Kitchens Dataset Challenges: Unsupervised
+Domain Adaptation for Action Recognition Track at **CVPR2022**.
