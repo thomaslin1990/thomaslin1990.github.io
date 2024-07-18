@@ -32,4 +32,6 @@ Domain Adaptation for Action Recognition Track at **CVPR2022**.
   
 - One paper entitled "Biomedical image classification based on a feature concatenation and ensemble of deep CNNs" has been published in **Journal of Ambient Intelligence and Humanized Computing**.
 
-- One paper entitled "MLSA-UNet: End-to-End multi-level spatial attention guided UNet for industrial defect segmentation" has been published in **ICIP2022**.
+- Three papers entitled "MLSA-UNet: End-to-End multi-level spatial attention guided UNet for industrial defect segmentation", "Masked face recognition via self-attention based local consistency regularization" and "Implicit shape biased few-shot learning for 3d object generalization" have been published in **ICIP2022**.
+
+- One Paper entitled "Multi-view 3D object retrieval leveraging the aggregation of view and instance attentive features" has been published in **Knowledge-Based Systems**.
