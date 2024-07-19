@@ -57,3 +57,7 @@ Domain Adaptation for Action Recognition Track at **CVPR2022**.
 - One paper entitled "Discriminative features for incremental learning classifier" has been published in **ICIP2019**.
 
 - One paper entitle "A two-stage method for automated detection of ring-like endosomes in fluorescent microscopy images" has been published in **Plos One**.
+
+- One paper entitled "Vibration source classification and propagation distance estimation system based on spectrogram and KELM" has been published in **Cognitive Computation and Systems**.
+
+- One paper entitled "Meta module generation for fast few-shot incremental learning" has been published in **ICCVW2019**.
