@@ -36,4 +36,24 @@ Domain Adaptation for Action Recognition Track at **CVPR2022**.
 
 - One paper entitled "Multi-view 3D object retrieval leveraging the aggregation of view and instance attentive features" has been published in **Knowledge-Based Systems**.
 
-- 
+- One paper entitled "On the use of component structural characteristics for voxel segmentation in semicon 3D images" has been published in **ICASSP2022**.
+
+- One paper entitled "A progressive multi-view learning approach for multi-loss optimization in 3d object recognition" has been published in **IEEE Signal Processing Letters**.
+
+- One paper entitled "CAM-guided Multi-Path Decoding U-Net with Triplet Feature Regularization for defect detection and segmentation" has been published in **Knowledge-Based Systems**.
+
+- Two papers entitled "CAM-Guided u-net with adversarial regularization for defect segmentation" and "Action Relational Graph for Weakly-Supervised Temporal Action Localization" have been published in **ICIP2021**.
+
+- One paper entitled "Few-shot defect segmentation leveraging abundant defect-free training samples through normal background regularization and crop-and-paste operation" has been published in **ICME2021(Oral Presentation)**.
+
+- One paper entitled "Rethinking of deep models parameters with respect to data distribution" has been published in **ICPR2021**.
+
+- One paper entitled "maskedfacenet: A progressive semi-supervised masked face detector" has been published in **WACV2021**.
+
+- Two papers entitled "CAM-UNET: class activation MAP guided UNET with feedback refinement for defect segmentation" and "Improving 3d brain tumor segmentation with predict-refine mechanism using saliency and feature maps" have been published in **ICIP2020**.
+
+- One paper entitled "RefineU-Net: Improved U-Net with progressive global feedbacks and residual attention guided local refinement for medical image segmentation" has been published in **Pattern Recognition Letters**.
+
+- One paper entitled "Discriminative features for incremental learning classifier" has been published in **ICIP2019**.
+
+- One paper entitle "A two-stage method for automated detection of ring-like endosomes in fluorescent microscopy images" has been published in **Plos One**.
