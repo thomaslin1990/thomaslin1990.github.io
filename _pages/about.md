@@ -61,3 +61,5 @@ Domain Adaptation for Action Recognition Track at **CVPR2022**.
 - One paper entitled "Vibration source classification and propagation distance estimation system based on spectrogram and KELM" has been published in **Cognitive Computation and Systems**.
 
 - One paper entitled "Meta module generation for fast few-shot incremental learning" has been published in **ICCVW2019**.
+
+- One paper entitled "Multicomponent signal decomposition using morphological operations" has been published in **DSP2018**.
