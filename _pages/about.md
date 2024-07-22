@@ -15,14 +15,18 @@ redirect_from:
 - My current reserach interests are in thoery and application in machine learning, deep learning and computer vision.
 
 ## Recent News
+
+- My Research Work on Multi-View 3D Object Recognition and Retrieval is shown in A*STAR Research Highlight [Page Link](https://research.a-star.edu.sg/articles/highlights/algorithms-give-computers-stereoscopic-vision/)
+  
+- My Research Work on Defect Detection and Segmentation is shown in A*STAR Research Highlight [Page Link](https://research.a-star.edu.sg/articles/highlights/a-smarter-way-to-detect-defects/)
+
 - One paper entitled "SCA-PVNet: Self-and-cross attention based aggregation of point cloud and multi-view for 3D object retrieval" has been published in **Knowledge-Based Systems**.
   
 - One paper entitled "Keyword-Aware Relative Spatio-Temporal Graph Networks for Video Question Answering" has been published in **IEEE Transactions on Multimedia**.
   
 - One **US Patent** entitled "Method and system for image classification" has been granted with Patent Number: 11836632.
   
-- Our solution has won the 1st Place in EPIC-Kitchens Dataset Challenges: Unsupervised
-Domain Adaptation for Action Recognition Track at **CVPR2022**.
+Our solution has won the 1st Place in EPIC-Kitchens Dataset Challenges: Unsupervised Domain Adaptation for Action Recognition Track, **CVPR2023** [Leaderboard Link](https://epic-kitchens.github.io/2023)
 
 - One paper entitled "DDR-ID: Dual deep reconstruction networks based image decomposition for anomaly detection" has been published in **Journal of Ambient Intelligence and Humanized Computing**.
   
@@ -37,6 +41,8 @@ Domain Adaptation for Action Recognition Track at **CVPR2022**.
 - One paper entitled "Multi-view 3D object retrieval leveraging the aggregation of view and instance attentive features" has been published in **Knowledge-Based Systems**.
 
 - One paper entitled "On the use of component structural characteristics for voxel segmentation in semicon 3D images" has been published in **ICASSP2022**.
+
+- Our solution has won the 1st Place in EPIC-Kitchens Dataset Challenges: Unsupervised Domain Adaptation for Action Recognition Track, **CVPR2022** [Leaderboard Link](https://epic-kitchens.github.io/2022)
 
 - One paper entitled "A progressive multi-view learning approach for multi-loss optimization in 3d object recognition" has been published in **IEEE Signal Processing Letters**.
 
