@@ -28,7 +28,7 @@ redirect_from:
   
 - One **US Patent** entitled "Method and system for image classification" has been granted with Patent Number: 11836632.
   
-Our solution has won the 1st Place in EPIC-Kitchens Dataset Challenges: Unsupervised Domain Adaptation for Action Recognition Track, **CVPR2023** [Leaderboard Link](https://epic-kitchens.github.io/2023)
+- Our solution has won the 1st Place in EPIC-Kitchens Dataset Challenges: Unsupervised Domain Adaptation for Action Recognition Track, **CVPR2023** [Leaderboard Link](https://epic-kitchens.github.io/2023)
 
 - One paper entitled "DDR-ID: Dual deep reconstruction networks based image decomposition for anomaly detection" has been published in **Journal of Ambient Intelligence and Humanized Computing**.
   
