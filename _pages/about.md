@@ -63,3 +63,15 @@ Domain Adaptation for Action Recognition Track at **CVPR2022**.
 - One paper entitled "Meta module generation for fast few-shot incremental learning" has been published in **ICCVW2019**.
 
 - One paper entitled "Multicomponent signal decomposition using morphological operations" has been published in **DSP2018**.
+
+- One paper entitled "Deep CNNs for microscopic image classification by exploiting transfer learning and feature concatenation" has been published in **ISCAS2018**.
+
+- One paper entitled "Biomedical image classification based on a cascade of an SVM with a reject option and subspace analysis" has been published in **Computers in biology and medicine**.
+
+- One paper entitled "Twin SVM with a reject option through ROC curve" has been published in **Journal of the Franklin Institute**.
+
+- Two papers entitled "Automatic endosomal structure detection and localization in fluorescence microscopic images" and "LLC encoded BoW features and softmax regression for microscopic image classification" have been published in **ISCAS2017**.
+
+- One paper entitled "Reaction-diffusion based level set method with local entropy thresholding for melasma image segmentation" has been published in **ISCAS2017**.
+
+- One paper entiteld "An SVM based scoring evaluation system for fluorescence microscopic image classification" has been published in **DSP2015**.
