@@ -14,6 +14,8 @@ redirect_from:
 
 - My current reserach interests are in thoery and application in machine learning, deep learning and computer vision.
 
+- For my detailed working and research experience, please refer to [CV](/files/Lin_Dongyun_CV_V1.pdf) for my complete CV.
+
 ## Recent News
 
 - My Research Work on Multi-View 3D Object Recognition and Retrieval is shown in A*STAR Research Highlight [Page Link](https://research.a-star.edu.sg/articles/highlights/algorithms-give-computers-stereoscopic-vision/)
