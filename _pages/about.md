@@ -21,7 +21,7 @@ redirect_from:
 ## Recent News
 - One paper entitled "PEVA-Net: Prompt-enhanced view aggregation network for zero/few-shot multi-view 3D shape recognition" has been published in **Neurocomputing**.
 
-- One paper entitled "PartCLIP: How does CLIP assist mechanical part image retrieval?" has been accepted in **ICMEW2024**.
+- One paper entitled "PartCLIP: How does CLIP assist mechanical part image retrieval?" has been accepted in **ICME2024**.
 
 - My Research Work on Multi-View 3D Object Recognition and Retrieval is shown in A*STAR Research Highlight [Page Link](https://research.a-star.edu.sg/articles/highlights/algorithms-give-computers-stereoscopic-vision/)
   
