@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-- I am a Singapore Citizen.
+* I am a Singapore Citizen.
 
-- I am working as a Senior Research Scientist at Visual Intelligence Department of Institute for Infocomm Research, Agency for Science, Technology and Research (A*STAR), Singapore. 
+* I am currently working as a **Senior Manager in Data Science at American Express (Amex), Singapore**, focusing on Generative AI, Large Language Models (LLMs), and NLP applications in financial risk management.
 
-- I obtained my Bachelor Degree from Beijing Institute of Technology at 2013 and PhD Degree from Nanyang Technological University (NTU), Singapore at 2019. After graduation, I have been working in I2R, A*STAR as a research scientist.
+* Previously, I worked as a **Senior Scientist at the Institute for Infocomm Research (I²R), Agency for Science, Technology and Research (A*STAR), Singapore**, conducting applied AI research in computer vision, deep learning, and multimodal learning.
 
-- My current reserach interests are in thoery and application in machine learning, deep learning and computer vision.
+* I obtained my Bachelor's degree from Beijing Institute of Technology in 2013 and my Ph.D. from Nanyang Technological University (NTU), Singapore, in 2019. I joined A*STAR as a Research Scientist in 2018 and spent over seven years there before joining American Express.
 
-- For my detailed working and research experience, please refer to [CV](/files/Lin_Dongyun_CV_V1.pdf) for my complete CV.
+* My current research interests include Generative AI, Large Language Models, Vision-Language Models, Multimodal Learning, and Computer Vision, with a focus on both theoretical advances and real-world applications.
 
 ## Recent News
 - One paper entitled "PEVA-Net: Prompt-enhanced view aggregation network for zero/few-shot multi-view 3D shape recognition" has been published in **Neurocomputing**.
